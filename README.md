@@ -62,14 +62,6 @@ I'm a **Systems Engineering Student** nearing graduation. I enjoy solving logica
 
 ---
 
-### GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=LuciaDelgado03&show_icons=true&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciaDelgado03&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect!
 
 * **LinkedIn:** [linkedin.com/in/lucia-ayelen-delgado](https://www.linkedin.com/in/lucia-ayelen-delgado/)
